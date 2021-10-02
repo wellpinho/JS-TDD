@@ -1,0 +1,28 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Javascript TDD with Mocha and Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellpinho/JS-TDD.git"
+  },
+  "keywords": [
+    "Mocha",
+    "Chai",
+    "Javascript"
+  ],
+  "author": "Wellington Pinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wellpinho/JS-TDD/issues"
+  },
+  "homepage": "https://github.com/wellpinho/JS-TDD#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}
